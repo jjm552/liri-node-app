@@ -17,7 +17,7 @@ if (nodeArgs[2] == "my-tweets") {
         access_token_secret: keys.twitterKeys.access_token_secret
     });
     var params = {
-        screen_name: '@mcmahan_jeff2',
+        screen_name: '@HeatherHe',
         count: '20'
     };
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
@@ -32,6 +32,20 @@ if (nodeArgs[2] == "my-tweets") {
     // spotify option
 } else if (nodeArgs[2] == "spotify-this-song") {
     var song = nodeArgs[3];
+    var noSong = "The Sign";
+    spotify.search({ type: 'artist', query: song }, function(err, data) {
+        if (err) {
+            console.log('Error occurred: ' + err);
+            return;
+        }
+        console.log(data);
+    });
+    // spotify.lookup({ type: 'song' }, function(err, data) {
+    //     if (err) {
+    //         console.log("Error occurred: " + err);
+    //     }
+    //     console.log(data);
+    // });
     console.log("SPOTIFY!" + song);
 
     // omdb option
