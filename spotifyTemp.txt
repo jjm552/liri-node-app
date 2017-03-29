@@ -1,0 +1,3098 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=The+Impression+That+I+Get&type=track&offset=0&limit=20",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+              },
+              "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+              "id": "5uYXMC13cIUulobh204QuK",
+              "name": "The Mighty Mighty Bosstones",
+              "type": "artist",
+              "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+          },
+          "href": "https://api.spotify.com/v1/albums/5yBYSnmpRANjb99msqeCee",
+          "id": "5yBYSnmpRANjb99msqeCee",
+          "images": [
+            {
+              "height": 632,
+              "url": "https://i.scdn.co/image/378122349222328c84df556b810fe98d3389342e",
+              "width": 640
+            },
+            {
+              "height": 296,
+              "url": "https://i.scdn.co/image/b44f82596b03a426b47bcee27334cbda5f26f9ec",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/163feb1f56b8b664f41ecdce8c75092781fc03ae",
+              "width": 64
+            }
+          ],
+          "name": "Let's Face It",
+          "type": "album",
+          "uri": "spotify:album:5yBYSnmpRANjb99msqeCee"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194760,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USMR19780102"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ru5R5iSawvuMELqKXxLjS",
+        "id": "1ru5R5iSawvuMELqKXxLjS",
+        "name": "The Impression That I Get",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/d29877f0cf36767219d5947eaa66a5107ba0e04b?cid=null",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1ru5R5iSawvuMELqKXxLjS"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4gx4jOkExlITup1Sh7IuLq"
+          },
+          "href": "https://api.spotify.com/v1/albums/4gx4jOkExlITup1Sh7IuLq",
+          "id": "4gx4jOkExlITup1Sh7IuLq",
+          "images": [
+            {
+              "height": 571,
+              "url": "https://i.scdn.co/image/159a7763a45fdbe64a0eb0eade450943a5d14d11",
+              "width": 639
+            },
+            {
+              "height": 268,
+              "url": "https://i.scdn.co/image/56c622c2f00c5b595f00707439bbdc6ef6a60e0c",
+              "width": 300
+            },
+            {
+              "height": 57,
+              "url": "https://i.scdn.co/image/a55a3bc09793f8ab9cfeeb3474f829887123faca",
+              "width": 64
+            }
+          ],
+          "name": "90's Rock Number 1's",
+          "type": "album",
+          "uri": "spotify:album:4gx4jOkExlITup1Sh7IuLq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194626,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USIR20300360"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6O9AOXvCAvfv4fxzPyUst4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6O9AOXvCAvfv4fxzPyUst4",
+        "id": "6O9AOXvCAvfv4fxzPyUst4",
+        "name": "The Impression That I Get",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/f0b949c622c5bf0db27a8224c54f84d6b479043c?cid=null",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6O9AOXvCAvfv4fxzPyUst4"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1B6tdvjPNTLVFWvMVmpiw9"
+          },
+          "href": "https://api.spotify.com/v1/albums/1B6tdvjPNTLVFWvMVmpiw9",
+          "id": "1B6tdvjPNTLVFWvMVmpiw9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/cecb4040edd6d2cd2af13af54a3726964a3fdfe0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/9bd02d36c5121e657cc7ab416da4317235ced71e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/3c33198435e8b4f3e4fb8a7d33bc23a9c6c095c0",
+              "width": 64
+            }
+          ],
+          "name": "20 #1’s: Alternative Rock",
+          "type": "album",
+          "uri": "spotify:album:1B6tdvjPNTLVFWvMVmpiw9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193320,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USMR19780102"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2stVdIsrtOyIXAkfXy3fK6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2stVdIsrtOyIXAkfXy3fK6",
+        "id": "2stVdIsrtOyIXAkfXy3fK6",
+        "name": "The Impression That I Get",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/cf40f394e8310502251d2ca4bc4590cc6bd6039c?cid=null",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2stVdIsrtOyIXAkfXy3fK6"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+              },
+              "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+              "id": "5uYXMC13cIUulobh204QuK",
+              "name": "The Mighty Mighty Bosstones",
+              "type": "artist",
+              "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx"
+          },
+          "href": "https://api.spotify.com/v1/albums/1D4YdkoQS2sJEcPRjLhgXx",
+          "id": "1D4YdkoQS2sJEcPRjLhgXx",
+          "images": [
+            {
+              "height": 635,
+              "url": "https://i.scdn.co/image/c3505a8277367c975de290a0e4d4a4180aeb7f27",
+              "width": 640
+            },
+            {
+              "height": 297,
+              "url": "https://i.scdn.co/image/f43f6878eaddaf6cd0c43f31f61f94f2a8880f7c",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/188027c34d158899a4a677aee794f2c74da5f9a8",
+              "width": 64
+            }
+          ],
+          "name": "Best Of/20th Century",
+          "type": "album",
+          "uri": "spotify:album:1D4YdkoQS2sJEcPRjLhgXx"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 193466,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USIR20300360"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CemxWTyMri30jUfWUlBJv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CemxWTyMri30jUfWUlBJv",
+        "id": "4CemxWTyMri30jUfWUlBJv",
+        "name": "The Impression That I Get",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/b17e73346204a75d86cbee8286dbb92c48104d08?cid=null",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4CemxWTyMri30jUfWUlBJv"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5KzBXh8kIwV0mUDnqlBQy3"
+          },
+          "href": "https://api.spotify.com/v1/albums/5KzBXh8kIwV0mUDnqlBQy3",
+          "id": "5KzBXh8kIwV0mUDnqlBQy3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/37918b82c9c3fbf913f4998b44ed9de7c0b484e3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/edcc011cdbb38246cdcbb9607218a3f747f7d3df",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/958c12eb4889a5cc5d9cd7f25f6c43962f720c4f",
+              "width": 64
+            }
+          ],
+          "name": "20 #1’s: 90s",
+          "type": "album",
+          "uri": "spotify:album:5KzBXh8kIwV0mUDnqlBQy3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194773,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USMR19780102"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FzoFfe0wY9OSSEPhN1b8x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FzoFfe0wY9OSSEPhN1b8x",
+        "id": "2FzoFfe0wY9OSSEPhN1b8x",
+        "name": "The Impression That I Get",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/90dd4694e4af48c49129b8024155fcc6b956bb30?cid=null",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:2FzoFfe0wY9OSSEPhN1b8x"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+              },
+              "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+              "id": "5uYXMC13cIUulobh204QuK",
+              "name": "The Mighty Mighty Bosstones",
+              "type": "artist",
+              "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/38EP2TzViSE6EZff94Xjd9"
+          },
+          "href": "https://api.spotify.com/v1/albums/38EP2TzViSE6EZff94Xjd9",
+          "id": "38EP2TzViSE6EZff94Xjd9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/f5e636b04f86c4fbb09d1e607699ea1394fb668d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2ef03277392d58f79d8dae26e4459c253b712579",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/537da62c9fe4b1ba8ef03cc801fc076cd4851703",
+              "width": 64
+            }
+          ],
+          "name": "Live From The Middle East",
+          "type": "album",
+          "uri": "spotify:album:38EP2TzViSE6EZff94Xjd9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+            },
+            "href": "https://api.spotify.com/v1/artists/5uYXMC13cIUulobh204QuK",
+            "id": "5uYXMC13cIUulobh204QuK",
+            "name": "The Mighty Mighty Bosstones",
+            "type": "artist",
+            "uri": "spotify:artist:5uYXMC13cIUulobh204QuK"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197533,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USMR19889404"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/36OV0GZDLOTe5U39M4fcP8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36OV0GZDLOTe5U39M4fcP8",
+        "id": "36OV0GZDLOTe5U39M4fcP8",
+        "name": "The Impression That I Get",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/a3c00c247c43a1b6f756fff632d2de30a106f887?cid=null",
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:36OV0GZDLOTe5U39M4fcP8"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+              },
+              "href": "https://api.spotify.com/v1/artists/6MERXsiRbur2oJZFgYRDKz",
+              "id": "6MERXsiRbur2oJZFgYRDKz",
+              "name": "Vitamin String Quartet",
+              "type": "artist",
+              "uri": "spotify:artist:6MERXsiRbur2oJZFgYRDKz"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1eLoP8WGZDJYkMkdFXPJiN"
+          },
+          "href": "https://api.spotify.com/v1/albums/1eLoP8WGZDJYkMkdFXPJiN",
+          "id": "1eLoP8WGZDJYkMkdFXPJiN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/65baad066d2b8f36a0c71379b9b2555b4b99ff19",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2264d09b4e0c38c10c93a38252a3ebfb11d93e3f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2cb906bdf4c86ccdca259aa3b5774322fb01acc4",
+              "width": 64
+            }
+          ],
+          "name": "VSQ Performs The Mighty Mighty Bosstones' The Impression That I Get",
+          "type": "album",
+          "uri": "spotify:album:1eLoP8WGZDJYkMkdFXPJiN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+            },
+            "href": "https://api.spotify.com/v1/artists/6MERXsiRbur2oJZFgYRDKz",
+            "id": "6MERXsiRbur2oJZFgYRDKz",
+            "name": "Vitamin String Quartet",
+            "type": "artist",
+            "uri": "spotify:artist:6MERXsiRbur2oJZFgYRDKz"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 198213,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USEWC1489206"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rbmd0NBT3tdpdiieH5ZKX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rbmd0NBT3tdpdiieH5ZKX",
+        "id": "0rbmd0NBT3tdpdiieH5ZKX",
+        "name": "The Impression That I Get",
+        "popularity": 9,
+        "preview_url": "https://p.scdn.co/mp3-preview/0d8f95041aae1aa9dac9dd99e5750d495422cfc8?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0rbmd0NBT3tdpdiieH5ZKX"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UZzVrbupYk8flWlQTn6OV"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UZzVrbupYk8flWlQTn6OV",
+              "id": "3UZzVrbupYk8flWlQTn6OV",
+              "name": "The Hangovers",
+              "type": "artist",
+              "uri": "spotify:artist:3UZzVrbupYk8flWlQTn6OV"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5yBklDIRezpAr0wbv7EZGa"
+          },
+          "href": "https://api.spotify.com/v1/albums/5yBklDIRezpAr0wbv7EZGa",
+          "id": "5yBklDIRezpAr0wbv7EZGa",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/39035b7b8990d2ac74061b49625082f37857a034",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/b8d1dad10bb02f6dc9654c36e09415d3efa0592c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ad28830866d6ea7a8aebb97bd3f78ec4ba1999cf",
+              "width": 64
+            }
+          ],
+          "name": "Three Sheets to the Wind",
+          "type": "album",
+          "uri": "spotify:album:5yBklDIRezpAr0wbv7EZGa"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UZzVrbupYk8flWlQTn6OV"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UZzVrbupYk8flWlQTn6OV",
+            "id": "3UZzVrbupYk8flWlQTn6OV",
+            "name": "The Hangovers",
+            "type": "artist",
+            "uri": "spotify:artist:3UZzVrbupYk8flWlQTn6OV"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 185078,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USE830900104"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58NRkklSnrf8MDNm58ymt4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/58NRkklSnrf8MDNm58ymt4",
+        "id": "58NRkklSnrf8MDNm58ymt4",
+        "name": "Impression That I Get",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/100cdd5cc0537bb476202f0f66ceb65b3af652c0?cid=null",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:58NRkklSnrf8MDNm58ymt4"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+              },
+              "href": "https://api.spotify.com/v1/artists/4VsNVAxuPxZrJMWE2Tprtq",
+              "id": "4VsNVAxuPxZrJMWE2Tprtq",
+              "name": "Tufts Beelzebubs",
+              "type": "artist",
+              "uri": "spotify:artist:4VsNVAxuPxZrJMWE2Tprtq"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2mAaYozkiIcIiBwelBaqmK"
+          },
+          "href": "https://api.spotify.com/v1/albums/2mAaYozkiIcIiBwelBaqmK",
+          "id": "2mAaYozkiIcIiBwelBaqmK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a73406e64b9e5af8005b250319d3ef04a0464626",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ac9e3edf9a4dfb58f5243ac9620fa2ad04162ede",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/47c340c8a88f4eae2cd1c38dbe2d636d7edd00f5",
+              "width": 64
+            }
+          ],
+          "name": "Next",
+          "type": "album",
+          "uri": "spotify:album:2mAaYozkiIcIiBwelBaqmK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+            },
+            "href": "https://api.spotify.com/v1/artists/4VsNVAxuPxZrJMWE2Tprtq",
+            "id": "4VsNVAxuPxZrJMWE2Tprtq",
+            "name": "Tufts Beelzebubs",
+            "type": "artist",
+            "uri": "spotify:artist:4VsNVAxuPxZrJMWE2Tprtq"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 186226,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USE830901736"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hNNICyeSL2Ar6dFxLdVQW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hNNICyeSL2Ar6dFxLdVQW",
+        "id": "7hNNICyeSL2Ar6dFxLdVQW",
+        "name": "The Impression That I Get",
+        "popularity": 4,
+        "preview_url": "https://p.scdn.co/mp3-preview/e913bf9b757f8d777230ae35ebf01153d5d2a6b4?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7hNNICyeSL2Ar6dFxLdVQW"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4YtQP2MirybnK7sZc1bEri"
+              },
+              "href": "https://api.spotify.com/v1/artists/4YtQP2MirybnK7sZc1bEri",
+              "id": "4YtQP2MirybnK7sZc1bEri",
+              "name": "The Manic Optimists",
+              "type": "artist",
+              "uri": "spotify:artist:4YtQP2MirybnK7sZc1bEri"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0bwYzR5Kfja93LZdUkQGEW"
+          },
+          "href": "https://api.spotify.com/v1/albums/0bwYzR5Kfja93LZdUkQGEW",
+          "id": "0bwYzR5Kfja93LZdUkQGEW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/af25f898075bcc24a383107b705f535abc472175",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a5f3f093e6ad4788472822189f495c8a43e80f68",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7934b108be76210ee3188a889a9fb768ed3198ce",
+              "width": 64
+            }
+          ],
+          "name": "Rock Out On The 414",
+          "type": "album",
+          "uri": "spotify:album:0bwYzR5Kfja93LZdUkQGEW"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YtQP2MirybnK7sZc1bEri"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YtQP2MirybnK7sZc1bEri",
+            "id": "4YtQP2MirybnK7sZc1bEri",
+            "name": "The Manic Optimists",
+            "type": "artist",
+            "uri": "spotify:artist:4YtQP2MirybnK7sZc1bEri"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 180533,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "ushm90689563"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/163809Y3u0U1UwbJObDQt7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/163809Y3u0U1UwbJObDQt7",
+        "id": "163809Y3u0U1UwbJObDQt7",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/59e3701698b6af809b653e4d22fa706150a7c4b1?cid=null",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:163809Y3u0U1UwbJObDQt7"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2R3oI9X6mg2mNaGYWJpTuH"
+          },
+          "href": "https://api.spotify.com/v1/albums/2R3oI9X6mg2mNaGYWJpTuH",
+          "id": "2R3oI9X6mg2mNaGYWJpTuH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ed56505c79c9ffd6da1100c12826dd8335f2f25c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f8ef75fb13cabf91117142c149f41d70b5cd64a6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/89215c06a5e94c5d05149bd51673aace1ad8fc58",
+              "width": 64
+            }
+          ],
+          "name": "PGA - If the Kids Are United",
+          "type": "album",
+          "uri": "spotify:album:2R3oI9X6mg2mNaGYWJpTuH"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/57Crn6dz8f6QyMQk1IXTyl"
+            },
+            "href": "https://api.spotify.com/v1/artists/57Crn6dz8f6QyMQk1IXTyl",
+            "id": "57Crn6dz8f6QyMQk1IXTyl",
+            "name": "Bock & The Sailors",
+            "type": "artist",
+            "uri": "spotify:artist:57Crn6dz8f6QyMQk1IXTyl"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188571,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QMBZ91633401"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7eZXzQCIXlXtrnxClbWn7j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eZXzQCIXlXtrnxClbWn7j",
+        "id": "7eZXzQCIXlXtrnxClbWn7j",
+        "name": "The Impression That I Get",
+        "popularity": 4,
+        "preview_url": "https://p.scdn.co/mp3-preview/d9b91e4b48dcdc4f04076a8955b56b07ecfde6da?cid=null",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:7eZXzQCIXlXtrnxClbWn7j"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW"
+              },
+              "href": "https://api.spotify.com/v1/artists/7aCUqnLkFEQd2FPL6RK1tW",
+              "id": "7aCUqnLkFEQd2FPL6RK1tW",
+              "name": "Off The Beat",
+              "type": "artist",
+              "uri": "spotify:artist:7aCUqnLkFEQd2FPL6RK1tW"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0vVDKwG2rdX3S7OHvaCNvz"
+          },
+          "href": "https://api.spotify.com/v1/albums/0vVDKwG2rdX3S7OHvaCNvz",
+          "id": "0vVDKwG2rdX3S7OHvaCNvz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/1087c238b620bba15feb42625bed31fb1de571fe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/59d3976f824eea22476ef74e52cdcb35b776120b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/fad7e92e6d99e2b024ac30acb3e911d2f0a5db70",
+              "width": 64
+            }
+          ],
+          "name": "Patio",
+          "type": "album",
+          "uri": "spotify:album:0vVDKwG2rdX3S7OHvaCNvz"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aCUqnLkFEQd2FPL6RK1tW",
+            "id": "7aCUqnLkFEQd2FPL6RK1tW",
+            "name": "Off The Beat",
+            "type": "artist",
+            "uri": "spotify:artist:7aCUqnLkFEQd2FPL6RK1tW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 203586,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCABU1427474"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0SXY0ussb4xrZHEtXE46H4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SXY0ussb4xrZHEtXE46H4",
+        "id": "0SXY0ussb4xrZHEtXE46H4",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/6e0f5d457034841812a8106ae2f6917a603eb7ad?cid=null",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0SXY0ussb4xrZHEtXE46H4"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3xUZZvik6VW0qpX4gMPsJW"
+              },
+              "href": "https://api.spotify.com/v1/artists/3xUZZvik6VW0qpX4gMPsJW",
+              "id": "3xUZZvik6VW0qpX4gMPsJW",
+              "name": "US Army Field Band",
+              "type": "artist",
+              "uri": "spotify:artist:3xUZZvik6VW0qpX4gMPsJW"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/39LMEP8NHcFlDoNr5FyF4K"
+          },
+          "href": "https://api.spotify.com/v1/albums/39LMEP8NHcFlDoNr5FyF4K",
+          "id": "39LMEP8NHcFlDoNr5FyF4K",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/245d88927b441b1575b935398aa61c07abddbb6d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/4cd5c2e9b499508ea88f49ab54de65905553b6d2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7b26a2f4c6b4ab2780b00d0eef0e2c37d0d41c5e",
+              "width": 64
+            }
+          ],
+          "name": "Volunteers",
+          "type": "album",
+          "uri": "spotify:album:39LMEP8NHcFlDoNr5FyF4K"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3xUZZvik6VW0qpX4gMPsJW"
+            },
+            "href": "https://api.spotify.com/v1/artists/3xUZZvik6VW0qpX4gMPsJW",
+            "id": "3xUZZvik6VW0qpX4gMPsJW",
+            "name": "US Army Field Band",
+            "type": "artist",
+            "uri": "spotify:artist:3xUZZvik6VW0qpX4gMPsJW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 218133,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USA5R0514005"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/349AtfOj28qI3SDn4YGqqI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/349AtfOj28qI3SDn4YGqqI",
+        "id": "349AtfOj28qI3SDn4YGqqI",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/b1ca51c7e672cf26bf1c602adbba4f29bc4cc36e?cid=null",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:349AtfOj28qI3SDn4YGqqI"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0kkgbLCUcJnnyQIAuGl9l3"
+              },
+              "href": "https://api.spotify.com/v1/artists/0kkgbLCUcJnnyQIAuGl9l3",
+              "id": "0kkgbLCUcJnnyQIAuGl9l3",
+              "name": "Tracy Thornton",
+              "type": "artist",
+              "uri": "spotify:artist:0kkgbLCUcJnnyQIAuGl9l3"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/56OCxEd74RKdQtROxCg1Kj"
+          },
+          "href": "https://api.spotify.com/v1/albums/56OCxEd74RKdQtROxCg1Kj",
+          "id": "56OCxEd74RKdQtROxCg1Kj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ca9e70091550e3e7e5d42e17e2b83bf4c4ea5a7d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6ed22326c3f4a004271de3f527ab1810b028c718",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c3f9fba4aa68d94ebe938d5070b977146e993dd1",
+              "width": 64
+            }
+          ],
+          "name": "Pan Rocks...Ska Punk'd",
+          "type": "album",
+          "uri": "spotify:album:56OCxEd74RKdQtROxCg1Kj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kkgbLCUcJnnyQIAuGl9l3"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kkgbLCUcJnnyQIAuGl9l3",
+            "id": "0kkgbLCUcJnnyQIAuGl9l3",
+            "name": "Tracy Thornton",
+            "type": "artist",
+            "uri": "spotify:artist:0kkgbLCUcJnnyQIAuGl9l3"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 173760,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US4391600015"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2H7d7LepSfURms9PnMMONL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H7d7LepSfURms9PnMMONL",
+        "id": "2H7d7LepSfURms9PnMMONL",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/53bdd610584aaf81825ae08dcd53fa0d178d45f8?cid=null",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2H7d7LepSfURms9PnMMONL"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2nEEmkvBpTsiKu1ld9RzXD"
+              },
+              "href": "https://api.spotify.com/v1/artists/2nEEmkvBpTsiKu1ld9RzXD",
+              "id": "2nEEmkvBpTsiKu1ld9RzXD",
+              "name": "Victims of Circumstance",
+              "type": "artist",
+              "uri": "spotify:artist:2nEEmkvBpTsiKu1ld9RzXD"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1roRBnyHQd1oUEdDA9M18g"
+          },
+          "href": "https://api.spotify.com/v1/albums/1roRBnyHQd1oUEdDA9M18g",
+          "id": "1roRBnyHQd1oUEdDA9M18g",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/928d3134fa5059695042d398a30a5c58be2a31d2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/279f65b2155d6374b4319eb38e97762165959f5d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ee2d45274f0c1da0ab16e82f411514fb3606e257",
+              "width": 64
+            }
+          ],
+          "name": "Decades, Vol. 2",
+          "type": "album",
+          "uri": "spotify:album:1roRBnyHQd1oUEdDA9M18g"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2nEEmkvBpTsiKu1ld9RzXD"
+            },
+            "href": "https://api.spotify.com/v1/artists/2nEEmkvBpTsiKu1ld9RzXD",
+            "id": "2nEEmkvBpTsiKu1ld9RzXD",
+            "name": "Victims of Circumstance",
+            "type": "artist",
+            "uri": "spotify:artist:2nEEmkvBpTsiKu1ld9RzXD"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 254000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "TCACZ1749755"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/065QhYniFlxOfgKal4SYZo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/065QhYniFlxOfgKal4SYZo",
+        "id": "065QhYniFlxOfgKal4SYZo",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/ea87576d86631d717ebca05f6251bb0793bd77ec?cid=null",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:065QhYniFlxOfgKal4SYZo"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JIGcRTVzU6IUDjAniw3Aa"
+              },
+              "href": "https://api.spotify.com/v1/artists/3JIGcRTVzU6IUDjAniw3Aa",
+              "id": "3JIGcRTVzU6IUDjAniw3Aa",
+              "name": "BU Allegrettos",
+              "type": "artist",
+              "uri": "spotify:artist:3JIGcRTVzU6IUDjAniw3Aa"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4RYlPbVhkt1g8hUzDhDXtL"
+          },
+          "href": "https://api.spotify.com/v1/albums/4RYlPbVhkt1g8hUzDhDXtL",
+          "id": "4RYlPbVhkt1g8hUzDhDXtL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/db90fe1c2caa684bbd53244008864dcfb4045081",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/aaaf93226981ef37993725cd9d181410acd57004",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/bd51007a6506d8ea5dac4f55aece9d6a99af0ce2",
+              "width": 64
+            }
+          ],
+          "name": "Light, Graceful, & Moderately Fast in Tempo",
+          "type": "album",
+          "uri": "spotify:album:4RYlPbVhkt1g8hUzDhDXtL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JIGcRTVzU6IUDjAniw3Aa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JIGcRTVzU6IUDjAniw3Aa",
+            "id": "3JIGcRTVzU6IUDjAniw3Aa",
+            "name": "BU Allegrettos",
+            "type": "artist",
+            "uri": "spotify:artist:3JIGcRTVzU6IUDjAniw3Aa"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 186254,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "uscgj1043840"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14qNdUmi5FnjeGvNV4bMWU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14qNdUmi5FnjeGvNV4bMWU",
+        "id": "14qNdUmi5FnjeGvNV4bMWU",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/d7d5c460e870b021c8e51ade1690ae58a4aa2742?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:14qNdUmi5FnjeGvNV4bMWU"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0GQkTwFb7D3ePIpnxwYavf"
+              },
+              "href": "https://api.spotify.com/v1/artists/0GQkTwFb7D3ePIpnxwYavf",
+              "id": "0GQkTwFb7D3ePIpnxwYavf",
+              "name": "Done Again",
+              "type": "artist",
+              "uri": "spotify:artist:0GQkTwFb7D3ePIpnxwYavf"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4xruiNuHWdPAkMZIoUDRHX"
+          },
+          "href": "https://api.spotify.com/v1/albums/4xruiNuHWdPAkMZIoUDRHX",
+          "id": "4xruiNuHWdPAkMZIoUDRHX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/835d6a1cba39b1f75c87584ed608d39f6dbc10a6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/843bf6273560434d2156a16e9125d95092d9b7ad",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4f44351017215757438217a9257d0cfec2d4b380",
+              "width": 64
+            }
+          ],
+          "name": "The Impression That I Get",
+          "type": "album",
+          "uri": "spotify:album:4xruiNuHWdPAkMZIoUDRHX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0GQkTwFb7D3ePIpnxwYavf"
+            },
+            "href": "https://api.spotify.com/v1/artists/0GQkTwFb7D3ePIpnxwYavf",
+            "id": "0GQkTwFb7D3ePIpnxwYavf",
+            "name": "Done Again",
+            "type": "artist",
+            "uri": "spotify:artist:0GQkTwFb7D3ePIpnxwYavf"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 187652,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USK4W0705652"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1K9pIHvHDjYvoV221mcJgs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1K9pIHvHDjYvoV221mcJgs",
+        "id": "1K9pIHvHDjYvoV221mcJgs",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/622a641d4e81da9fcb2b0e3467abb7c289c80409?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1K9pIHvHDjYvoV221mcJgs"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5UloVKzUNJcjORzhhTWWiJ",
+              "id": "5UloVKzUNJcjORzhhTWWiJ",
+              "name": "The Karaoke Channel",
+              "type": "artist",
+              "uri": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5L62wgTAOa4POGruINC6Ye"
+          },
+          "href": "https://api.spotify.com/v1/albums/5L62wgTAOa4POGruINC6Ye",
+          "id": "5L62wgTAOa4POGruINC6Ye",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4f9c20ccb354ac571c006478f954a1e784f842bb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7fba57d7a4de4d20fec9b24d5b2e578db3af80c5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2bf80ea9e22cd46fe583f0a79a49009284a0f88c",
+              "width": 64
+            }
+          ],
+          "name": "The Karaoke Channel - Sing the Impression That I Get Like the Mighty Mighty Bosstones",
+          "type": "album",
+          "uri": "spotify:album:5L62wgTAOa4POGruINC6Ye"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UloVKzUNJcjORzhhTWWiJ",
+            "id": "5UloVKzUNJcjORzhhTWWiJ",
+            "name": "The Karaoke Channel",
+            "type": "artist",
+            "uri": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188237,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USK4W0705652"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rTM17s2Of2KVnuYt6nzgP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rTM17s2Of2KVnuYt6nzgP",
+        "id": "2rTM17s2Of2KVnuYt6nzgP",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/39a1e9c8a9b249691ade3a55f3c7e934d162609f?cid=null",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2rTM17s2Of2KVnuYt6nzgP"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5UloVKzUNJcjORzhhTWWiJ",
+              "id": "5UloVKzUNJcjORzhhTWWiJ",
+              "name": "The Karaoke Channel",
+              "type": "artist",
+              "uri": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5L62wgTAOa4POGruINC6Ye"
+          },
+          "href": "https://api.spotify.com/v1/albums/5L62wgTAOa4POGruINC6Ye",
+          "id": "5L62wgTAOa4POGruINC6Ye",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4f9c20ccb354ac571c006478f954a1e784f842bb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7fba57d7a4de4d20fec9b24d5b2e578db3af80c5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2bf80ea9e22cd46fe583f0a79a49009284a0f88c",
+              "width": 64
+            }
+          ],
+          "name": "The Karaoke Channel - Sing the Impression That I Get Like the Mighty Mighty Bosstones",
+          "type": "album",
+          "uri": "spotify:album:5L62wgTAOa4POGruINC6Ye"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UloVKzUNJcjORzhhTWWiJ",
+            "id": "5UloVKzUNJcjORzhhTWWiJ",
+            "name": "The Karaoke Channel",
+            "type": "artist",
+            "uri": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 188421,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USK4W0727544"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1pMfBTour7DJ3yBAwWR8Y4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1pMfBTour7DJ3yBAwWR8Y4",
+        "id": "1pMfBTour7DJ3yBAwWR8Y4",
+        "name": "The Impression That I Get (Originally Performed by the Mighty Mighty Bosstones) [Karaoke Version]",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/2947c0a530aa5005aef85f9760d4fd9669a1ec35?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1pMfBTour7DJ3yBAwWR8Y4"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2UxjiPpWHNc2txHrYy5EF3"
+              },
+              "href": "https://api.spotify.com/v1/artists/2UxjiPpWHNc2txHrYy5EF3",
+              "id": "2UxjiPpWHNc2txHrYy5EF3",
+              "name": "The Hit Co.",
+              "type": "artist",
+              "uri": "spotify:artist:2UxjiPpWHNc2txHrYy5EF3"
+            }
+          ],
+          "available_markets": [
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Sz3fZZ7QxtneRO0NmGaab"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Sz3fZZ7QxtneRO0NmGaab",
+          "id": "1Sz3fZZ7QxtneRO0NmGaab",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4d37340d36ef54b13e2bff404f049641442ad04f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f52a92cfb1a5c09b023cb6de5734c4b8dd9da248",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4623d15d2b93f5c2777b4b92132dbfe5838df6e7",
+              "width": 64
+            }
+          ],
+          "name": "A Tribute to the Warped Tour",
+          "type": "album",
+          "uri": "spotify:album:1Sz3fZZ7QxtneRO0NmGaab"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2UxjiPpWHNc2txHrYy5EF3"
+            },
+            "href": "https://api.spotify.com/v1/artists/2UxjiPpWHNc2txHrYy5EF3",
+            "id": "2UxjiPpWHNc2txHrYy5EF3",
+            "name": "The Hit Co.",
+            "type": "artist",
+            "uri": "spotify:artist:2UxjiPpWHNc2txHrYy5EF3"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194240,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USPSU0901262"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0DkhP9Vm46gKKFwAlEo8wZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0DkhP9Vm46gKKFwAlEo8wZ",
+        "id": "0DkhP9Vm46gKKFwAlEo8wZ",
+        "name": "The Impression That I Get",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/ef5347d1fa49c9a30e15a8808c777e23c0494291?cid=null",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0DkhP9Vm46gKKFwAlEo8wZ"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=The+Impression+That+I+Get&type=track&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 67
+  }
+}
