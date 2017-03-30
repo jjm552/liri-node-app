@@ -37,7 +37,7 @@ function twitterCall(twitter, keys) {
         access_token_secret: keys.twitterKeys.access_token_secret
     });
     var params = {
-        screen_name: '@HeatherHe',
+        screen_name: '@mcmahan_jeff2',
         count: '20'
     };
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
