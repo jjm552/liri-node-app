@@ -1,0 +1,42 @@
+***spotify-this-song function called***
+Spotify preview URL: https://p.scdn.co/mp3-preview/da3fac3e15ebd9190babfb1a7d85c077a2c63ba5?cid=null
+Track Name: Alone Together
+Artist: Fall Out Boy
+Album title: Save Rock And Roll
+***my-tweets function called***
+My last 20 tweets!:
+-------------------------------------------------------
+https://t.co/MJzsHmJsNqThu Mar 30 03:12:24 +0000 2017
+-------------------------------------------------------
+https://t.co/fSXjC2xSYzThu Mar 30 03:11:54 +0000 2017
+-------------------------------------------------------
+https://t.co/kbjaI9z1MdThu Mar 30 03:11:45 +0000 2017
+-------------------------------------------------------
+re-tweet 1234!@#$%^)(*&amp;^%$ https://t.co/Hp6UqgDRXOThu Mar 30 03:10:08 +0000 2017
+-------------------------------------------------------
+😀yellow man test12345678909Thu Mar 30 03:08:10 +0000 2017
+-------------------------------------------------------
+Poll testThu Mar 30 03:07:36 +0000 2017
+-------------------------------------------------------
+Picture test https://t.co/TozyGCQAWDThu Mar 30 03:06:51 +0000 2017
+-------------------------------------------------------
+node.js api rest test 4 11:40 11/27/17Mon Mar 27 16:40:12 +0000 2017
+-------------------------------------------------------
+test3Mon Mar 27 16:15:14 +0000 2017
+-------------------------------------------------------
+test2Mon Mar 27 16:15:10 +0000 2017
+-------------------------------------------------------
+test1Mon Mar 27 16:15:03 +0000 2017
+-------------------------------------------------------
+***movie-this function called***
+Movie Title: The Life Aquatic with Steve Zissou
+Release date: 25 Dec 2004
+IMDB Rating: 7.3
+Language: English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Italian
+Plot: When his partner is killed by the mysterious and possibly nonexistent Jaguar Shark, Steve Zissou and his Team Zissou crew set off for an expedition to hunt down the creature. Along with his estranged wife, a beautiful journalist and a co-pilot who could possibly be Zissou's son, the crew set off for one wild expedition.
+-------------------------------------------------------
+Actors: Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston
+Rotten Tomatoes Rating: 73%
+-------------------------------------------------------
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/yves_st_laurent_his_life_and_times_2004/
+Country: USA

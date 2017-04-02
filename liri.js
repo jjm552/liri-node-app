@@ -42,11 +42,16 @@ function twitterCall(twitter, keys) {
     };
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
         if (!error) {
-            console.log("My last 20 tweets!:")
+            console.log("My last 20 tweets!:");
+            fs.appendFile("log.txt", ("***my-tweets function called***") + "\n");
+            fs.appendFile("log.txt", ("My last 20 tweets!:") + "\n");
             console.log("-------------------------------------------------------");
+            fs.appendFile("log.txt", ("-------------------------------------------------------") + "\n");
             for (var i = 0; i < tweets.length; i++) {
                 console.log(tweets[i].text + tweets[i].created_at);
+                fs.appendFile("log.txt", (tweets[i].text + tweets[i].created_at) + "\n");
                 console.log("-------------------------------------------------------");
+                fs.appendFile("log.txt", ("-------------------------------------------------------") + "\n");
             }
         }
     });
@@ -68,10 +73,14 @@ function spotifyCall(userInput, spotify) {
         // used to write spotify data to a txt file for ease of parsing info for console.logs
         // fs.writeFile("spotifyTemp.txt", JSON.stringify(data, null, 2));
         console.log("Artist: " + data.tracks.items[0].artists[0].name);
+        fs.appendFile("log.txt", ("***spotify-this-song function called***") + "\n");
+        fs.appendFile("log.txt", ("Artist: " + data.tracks.items[0].artists[0].name) + "\n");
         console.log("Track Name: " + data.tracks.items[0].name);
+        fs.appendFile("log.txt", ("Track Name: " + data.tracks.items[0].name) + "\n");
         console.log("Spotify preview URL: " + data.tracks.items[0].preview_url);
+        fs.appendFile("log.txt", ("Spotify preview URL: " + data.tracks.items[0].preview_url) + "\n");
         console.log("Album title: " + data.tracks.items[0].album.name);
-
+        fs.appendFile("log.txt", ("Album title: " + data.tracks.items[0].album.name) + "\n");
     });
 }
 
@@ -87,6 +96,7 @@ function omdbCall(userInput, request, fs) {
     request("http://www.omdbapi.com/?t=" + movie + "&y=&plot=full&tomatoes=true&r=json", function(error, response, body) {
         if (!error && response.statusCode === 200) {
             console.log("Movie Title: " + JSON.parse(body).Title);
+            fs.appendFile("log.txt", ("***movie-this function called***") + "\n");
             fs.appendFile("log.txt", ("Movie Title: " + JSON.parse(body).Title) + "\n");
             console.log("Release date: " + JSON.parse(body).Released);
             fs.appendFile("log.txt", ("Release date: " + JSON.parse(body).Released) + "\n");
